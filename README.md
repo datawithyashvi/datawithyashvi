@@ -1,7 +1,7 @@
 # Hello there 👋  
 A **Data Engineering student by day** ☼ and a **Developer by night** ☾
 
-Check out my main github: [**@yashvisharma1204**](https://yashvisharma1204.github.io/)  
+Check out my main github: [**@yashvisharma1204**]([https://yashvisharma1204.github.io/](https://github.com/yashvisharma1204))  
 **Computer Science** student, specializing in **AI** and **Data Engineering** 
 
 - ⚙️ **I use daily**: `.sql`, `.py`, `.bash`, `.aws`, `.azure`  
