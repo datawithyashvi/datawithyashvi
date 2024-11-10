@@ -2,7 +2,7 @@
 A **Data Engineering student by day** ☼ and a **Developer by night** ☾
 
 Check out my main github: [**@yashvisharma1204**](https://yashvisharma1204.github.io/)  
-**Data Engineering** student, specializing in **Data Pipelines** and **Cloud Computing** 👑
+**Computer Science** student, specializing in **AI** and **Data Engineering** 
 
 - ⚙️ **I use daily**: `.sql`, `.py`, `.bash`, `.aws`, `.azure`  
 - 💡 **Passions**: **Data Engineering**, **ETL Processes**, **Big Data**, **Cloud Technologies (AWS, Azure)**
